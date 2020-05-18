@@ -1,4 +1,4 @@
-# Sentiment-analysis
+# IMDB_Sentiment-analysis
 classification of emotions (positive, negative) within text data.
 <p align="center">
   <img src="https://github.com/ak224001/IMDB_Sentiment_analysis/blob/master/Images/text.png" width="350" title="Nlp_img">
